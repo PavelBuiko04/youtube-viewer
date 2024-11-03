@@ -1,4 +1,4 @@
-# youtube-viewer
+# Youtube-viewer
 
 **Youtube-viewer** - An application that works like a youtube search
 
